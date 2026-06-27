@@ -5,7 +5,7 @@
 A machine learning web app that analyzes historical sales data and predicts future sales using a Random Forest Regressor.
 
 ## 🚀 Live Demo
-[Click here to open the app](https://your-app-link.streamlit.app)
+[Click here to open the app](https://sales-forecasting-sqrock-figljpv4uwrrwf8gce8uxs.streamlit.app)
 
 ## 📌 Features
 - Upload any sales CSV dataset
